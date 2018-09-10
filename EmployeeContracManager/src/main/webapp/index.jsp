@@ -18,7 +18,7 @@
         <div class="col-lg-10 col-md-8 col-sm-12 main-bar">
 
             <div class="row no-gutters title-text">
-                <span>Employee Contrac Manager</span>
+                <span>Employee Contract Manager</span>
             </div>
 
             <div class="welcome-text">
