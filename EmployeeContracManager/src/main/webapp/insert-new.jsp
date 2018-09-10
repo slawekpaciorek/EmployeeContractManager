@@ -26,7 +26,7 @@
                         <h3>Pracownik :</h3>
                         <div>
                             <input name="employeeName" placeholder="imię" type="text" required>
-                            <input name="employeeSurname" placeholder="naziwsko" type="text" required>
+                            <input name="employeeSurname" placeholder="nazwisko" type="text" required>
                             <input name="employeeEmail" placeholder="adres email" type="email" required>
                             <input name="baseSalary" placeholder="podstawa wynagrodzenia" type="number" required>
                         </div>
